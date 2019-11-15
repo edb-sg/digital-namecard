@@ -2,9 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Lim;Dawn;;;
-FN: Dawn  Lim 
+FN: Dawn Lim 
 ORG:EDB;
 TITLE:Director\nCommercial & Professional Services
+PHOTO;VALUE=URI;TYPE=JPG:;https://edb-sg.github.io/digital-namecard/dawn_lim.jpg
 EMAIL;type=INTERNET;type=WORK;type=pref:dawn_lim@edb.gov.sg
 TEL;type=WORK;type=VOICE:+65 6832 6026
 item1.ADR;type=WORK;type=pref:;;250 North Bridge Road\nRaffles City Tower\, 28-00;;;179101;Singapore
