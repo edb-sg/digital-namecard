@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Lee;Yu Ming;;;
+FN: Lee Yu Ming 
+ORG:EDB;
+TITLE:Director\nAdministration & Corporate Records & Information Services
+PHOTO;VALUE=URI;TYPE=JPG:;https://edb-sg.github.io/digital-namecard/lee_yu_ming.jpg
+EMAIL;type=INTERNET;type=WORK;type=pref:lee_yu_ming@edb.gov.sg
+TEL;type=WORK;type=VOICE:+65 6832 6939
+item1.ADR;type=WORK;type=pref:;;250 North Bridge Road\nRaffles City Tower\, 28-00;;;179101;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:www.edb.gov.sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
